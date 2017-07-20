@@ -39,7 +39,7 @@ pragma solidity 0.4.11;
      string public constant symbol = "ETHP";
      string public constant name = "Ethereum Plus";
      uint8 public constant decimals = 18;
-     uint256 _totalSupply = 1000000000000000;
+     uint256 _totalSupply = 10000000000000000000000000;
      
      // Owner of this contract
      address public owner;
